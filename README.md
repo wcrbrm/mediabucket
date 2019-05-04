@@ -1,2 +1,1 @@
-# mediabucket
-Media Bucket - scalable file storage
+# wojournal
